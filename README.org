@@ -1,0 +1,9 @@
+* cl-cuda
+
+Cl-cuda is a library to use NVIDIA CUDA in Common Lisp programs.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/takagi/cl-cuda.git |
+| commit  | 0df19d5                                   |
+| systems | cl-cuda                                   |
+|---------+-------------------------------------------|
